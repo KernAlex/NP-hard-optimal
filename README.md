@@ -1,7 +1,7 @@
 # NP-hard-optimal
 # CS170– Fall 2018— Solver Design Doc
 
-## Freddy Cervantes: SID 3033250924, Alex Kern: SID 27046342, Haitao Zhu: SID 3033251184
+## Freddy Cervantes, Alex Kern, Haitao Zhu
 
 ## December 2, 2018
 
