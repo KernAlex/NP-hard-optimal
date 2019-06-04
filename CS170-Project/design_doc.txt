@@ -1,0 +1,9 @@
+__________________________________________________
+Project Deliverable 1: Design Doc
+__________________________________________________
+
+Design Doc instructions:
+
+Your design doc should be at least 200 words, and no more than 500 words long. It should be a high-level description of algorithms/approaches that you have tried or plan to try. Additionally, you must include your reasoning for what led you to these approaches, and why you think they will work. This design doc will be graded on a binary basis – you will initially receive either a score of 0 or 1. If you receive a 0, you must attend a mandatory meeting with a few TAs in which we will discuss project approaches and strategies. After attending this meeting you will receive your point back. The purpose of this system is not to punish students, but to make sure everyone has a good starting off point for working on the second deliverable. Your group will only receive a 0 initially if your initial report indicates that you may not be able to come up with a better-than-naive solution for the problem statement.
+
+Testing my push ability: -A
